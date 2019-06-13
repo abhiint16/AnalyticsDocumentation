@@ -33,11 +33,17 @@ It uses **CognitoPoolID**, **Region**, **CognitoCachingCredentialsProvider** and
 
 (XYZ)Analytics uses [Singleton design pattern](https://en.wikipedia.org/wiki/Singleton_pattern) to create only one instance throughout. 
 
-![image](https://i.imgur.com/pWIJKcM.png)
+![image](https://i.imgur.com/w1QGH1O.png)
 
 
 ### AnalyticsHashMap
 
 AnalyticsHashMap class does nothing but creates a HashMap and adds certain OS-level attributes like *PLATFORM*, *APP_VERSION*, 
 *NETWORK_TYPE*, *OS_VERSION*, *DEVICE_ID*(which is a unique session ID from **Settings.Secure**) and *TIMESTAMP*.
+
+
+
+### AnalyticsTracker
+
+Analytics
 
