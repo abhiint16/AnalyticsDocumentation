@@ -27,3 +27,11 @@ It uses **CognitoPoolID**, **Region**, **CognitoCachingCredentialsProvider** and
 
 
 
+### (XYZ)Analytics
+
+(XYZ)Analytics is just a common name of any custom-analytics class for any Activity/Fragment or any other View, **XYZ** will be replaced by the specific name of the View. Ex:- PracticeAnalytics etc. 
+
+(XYZ)Analytics uses [Singleton design pattern](https://en.wikipedia.org/wiki/Singleton_pattern) to create only one instance throughout. 
+
+![image](https://i.imgur.com/pWIJKcM.png)
+
