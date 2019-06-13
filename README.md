@@ -23,6 +23,7 @@ Now, let's discuss about the individual player of the ecosystem.
 AnalyticsModule is like any other module which is used to provide instance to be used by Dagger ***@inject** annotation*.
 It uses **CognitoPoolID**, **Region**, **CognitoCachingCredentialsProvider** and **PinpointManager** to eventually provide the instance of **AnalyticsTracker** at runtime. 
 
-[!image](https://i.imgur.com/pWIJKcM.png)
+![image](https://i.imgur.com/pWIJKcM.png)
+
 
 
