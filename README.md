@@ -46,7 +46,7 @@ AnalyticsHashMap class does nothing but creates a HashMap and adds certain OS-le
 ### AnalyticsTracker
 
 AnalyticsTracker takes in all the attributes from AnalyticsHashMap and (XYZ)Analytics and then adds some more preference-level
-attribute to the resultant HashMap to submit the event instance that was created as shown using PinpointManager.
+attribute(like STUDENT_ID, ADMISSION_NO, UUID, EVENT_GROUP) to the resultant HashMap to submit the event instance that was created as shown using PinpointManager.
 
 ![image](https://i.imgur.com/y2IsV3W.png)
 
