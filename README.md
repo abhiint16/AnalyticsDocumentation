@@ -51,4 +51,3 @@ AnalyticsTracker takes in all the attributes from AnalyticsHashMap and (XYZ)Anal
 attribute(like STUDENT_ID, ADMISSION_NO, UUID, EVENT_GROUP) to the resultant HashMap to submit the event instance that was created as shown using PinpointManager.
 
 ![image](https://i.imgur.com/y2IsV3W.png)
-
