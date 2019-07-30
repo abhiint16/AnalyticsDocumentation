@@ -2,7 +2,7 @@
 
 This documentation gives clear idea of how the nLearn application is keeping track of all the events.
 
-It mainly has 
+It mainly has followings:
 
 * AnalyticsModule
 * AnalyticsTracker
